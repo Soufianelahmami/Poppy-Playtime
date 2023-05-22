@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"In recent years, the world of video games has witnessed a resurgence of the horror genre, captivating players with spine-tingling experiences. Among the diverse array of titles,","photo2":"https://iili.io/HgS56Xf.jpg"},
+  {"desc3":"Poppy Playtime, developed by Madhouse Interactive, has emerged as a prominent and intriguing addition","photo3":"https://iili.io/HgS5sql.jpg"},
+  {"desc4":" This 2000-word essay delves into the eerie world of Poppy Playtime, exploring its origins,","photo4":"https://iili.io/HgSCbnt.jpg"},
+  {"desc5":" gameplay mechanics, narrative, and the factors contributing to its appeal as a thrilling interactive horror experience.","photo5":"https://iili.io/HgSCZwN.jpg"},
+  {"descd":"Poppy Playtime, released in 2022, took the gaming world by storm. Developed by a small independent studio, Madhouse Interactive, the game gained popularity for its unique blend of horror and nostalgia","photod":"https://iili.io/HgS5L12.jpg"}
    ]
  
 }
